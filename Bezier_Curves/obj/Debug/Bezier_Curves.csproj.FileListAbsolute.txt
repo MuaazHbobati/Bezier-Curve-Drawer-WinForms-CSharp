@@ -1,0 +1,10 @@
+C:\Users\mstfy\source\repos\Bezier_Curves\Bezier_Curves\bin\Debug\Bezier_Curves.exe.config
+C:\Users\mstfy\source\repos\Bezier_Curves\Bezier_Curves\bin\Debug\Bezier_Curves.exe
+C:\Users\mstfy\source\repos\Bezier_Curves\Bezier_Curves\bin\Debug\Bezier_Curves.pdb
+C:\Users\mstfy\source\repos\Bezier_Curves\Bezier_Curves\obj\Debug\Bezier_Curves.csproj.AssemblyReference.cache
+C:\Users\mstfy\source\repos\Bezier_Curves\Bezier_Curves\obj\Debug\Bezier_Curves.Form1.resources
+C:\Users\mstfy\source\repos\Bezier_Curves\Bezier_Curves\obj\Debug\Bezier_Curves.Properties.Resources.resources
+C:\Users\mstfy\source\repos\Bezier_Curves\Bezier_Curves\obj\Debug\Bezier_Curves.csproj.GenerateResource.cache
+C:\Users\mstfy\source\repos\Bezier_Curves\Bezier_Curves\obj\Debug\Bezier_Curves.csproj.CoreCompileInputs.cache
+C:\Users\mstfy\source\repos\Bezier_Curves\Bezier_Curves\obj\Debug\Bezier_Curves.exe
+C:\Users\mstfy\source\repos\Bezier_Curves\Bezier_Curves\obj\Debug\Bezier_Curves.pdb
