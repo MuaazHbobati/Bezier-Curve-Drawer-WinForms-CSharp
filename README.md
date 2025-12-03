@@ -63,7 +63,6 @@ This app lets you place and manipulate control points, then draws the correspond
    
  ![Bezier curve rendering](docs/images/curve-rendering.png)
 
-> Replace these placeholders with actual images from your project.
 
 ---
 
