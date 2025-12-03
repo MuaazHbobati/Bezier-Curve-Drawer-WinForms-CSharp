@@ -80,9 +80,7 @@ This app lets you place and manipulate control points, then draws the correspond
 
 - **Linear interpolation between two points:**
 
-  \[
-  L(t) = (1 - t) \cdot P_0 + t \cdot P_1,\quad t \in [0,1]
-  \]
+  L(t) = (1 - t) * P0 + t * P1,   t ∈ [0,1]
 
 - **Recursive construction:** Interpolate every adjacent pair of points to form a new set, then repeat on the reduced set until one point remains.
 
