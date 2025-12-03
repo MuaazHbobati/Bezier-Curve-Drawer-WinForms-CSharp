@@ -48,9 +48,20 @@ This app lets you place and manipulate control points, then draws the correspond
 
 ## Screenshots
 
-- ![Main UI](docs/images/main-ui.png)
-- ![Control points placement](docs/images/control-points.png)
-- ![Bezier curve rendering](docs/images/curve-rendering.png)
+- **Main UI:**
+
+  
+ ![Main UI](docs/images/main-ui.png)
+
+- **Control points:**
+
+  
+ ![Control points placement](docs/images/control-points.png)
+
+-  **Bezier curve rendering:**
+
+   
+ ![Bezier curve rendering](docs/images/curve-rendering.png)
 
 > Replace these placeholders with actual images from your project.
 
